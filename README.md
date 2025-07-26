@@ -6,10 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabrielMG1008/gabrielMG1008/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Techs</h3>
 
 ###
